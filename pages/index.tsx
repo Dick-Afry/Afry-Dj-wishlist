@@ -18,7 +18,7 @@ const Home: NextPage = () => {
 
       <h1>Test</h1>
       <main className='flex'>
-        <Sidebar />
+        <Sidebar/>
         <Center />
       </main>
       <div className='sticky bottom-0'>
